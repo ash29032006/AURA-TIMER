@@ -10,7 +10,7 @@
 ## 🔗 Exhibition Links
 - **Live Demo**: [aura-timer-sigma.vercel.app](https://aura-timer-sigma.vercel.app/)
 - **Figma Design System**: [Figma Craft & Prototype](https://www.figma.com/design/mECqxARQCDMzBG0HGewNjH/Untitled?node-id=0-1&p=f&t=l1JoYjBNv2rOhNE5-0)
-- **Technical Walkthrough**: [Watch Demo Video](#) _(Internal Only)_
+- **Technical Walkthrough**: [Watch Demo Video](https://www.loom.com/share/2d191410d63c4d8a86061588452d2980) 
 
 ---
 
