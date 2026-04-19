@@ -1,5 +1,4 @@
 import { useEffect, useRef } from 'react';
-// @ts-expect-error ogl has no types
 import { Renderer, Camera, Geometry, Program, Mesh } from 'ogl';
 
 const defaultColors = ['#ffffff', '#ffffff', '#ffffff'];

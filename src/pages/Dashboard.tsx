@@ -217,7 +217,7 @@ export function Dashboard() {
                   }}
                   labelStyle={{ color: 'rgba(255,255,255,0.5)', fontSize: '11px', marginBottom: '4px' }}
                   itemStyle={{ color: theme.primary }}
-                  formatter={(value: number) => [`${value}h`, 'Focus']}
+                  formatter={(value: any) => [`${value}h`, 'Focus']}
                 />
                 <Bar dataKey="hours" radius={[10, 10, 4, 4]} animationDuration={1200} animationEasing="ease-out">
                   {weeklyData.map((_, index) => (

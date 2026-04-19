@@ -1,5 +1,4 @@
 import { useEffect, useRef } from 'react';
-// @ts-expect-error ogl has no types
 import { Renderer, Program, Mesh, Triangle } from 'ogl';
 
 function hexToVec3(hex: string) {
